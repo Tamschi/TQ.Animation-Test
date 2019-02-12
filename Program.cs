@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using TQ.Animation;
 
 namespace TQ.Animation_Test
 {
