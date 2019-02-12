@@ -1,0 +1,4 @@
+syntax: glob
+animation.anm
+bin/
+obj/
